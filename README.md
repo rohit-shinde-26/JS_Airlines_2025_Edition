@@ -112,3 +112,9 @@
 4. Are let and const arehoisted ? What is a reference Error ?
 5. Function execution context
 6. Scope chain and lexical environment
+
+## Closures
+1. Intro to closures
+2. Closure example1
+3. Closure Example2
+4. Closure Example3
