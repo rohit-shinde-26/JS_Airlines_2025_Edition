@@ -38,28 +38,28 @@
 10. Array destructuring
 
 ## Objects in JavaScript
-1. Introtoobjects
-2. DotvsBracketNotation
+1. Intro to objects
+2. Dot vs Bracket Notation
 3. Iterate objects
-4. Computedproperties
-5. Spreadoperator in objects
-6. ObjectDestructuring
-7. Objectsinside Array
-8. NestedDestructuring
+4. Computed properties
+5. Spread operator in objects
+6. Object Destructuring
+7. Objects inside Array
+8. Nested Destructuring
 
 ## Functions in JavaScript
-1. Functiondeclaration
-2. FunctionExpression
-3. ArrowFunctions
-4. Functiondeclarations are hoisted (covered in great detail , later in this
+1. Function declaration
+2. Function Expression
+3. Arrow Functions
+4. Function declarations are hoisted (covered in great detail , later in this
  course)
-5. Functioninside function
+5. Function inside function
 6. Lexical Scope
-7. BlockScopeVsFunctionScope
-8. DefaultParameters
-9. RestParameters
-10. ParameterDestructuring
-11. Verybrief intro to callback functions(covered in great detail , later in this
+7. Block Scope Vs Function Scope
+8. Default Parameters
+9. Rest Parameters
+10. Parameter Destructuring
+11. Very brief intro to callback functions(covered in great detail , later in this
  course)
 12. Functions returning Functions
 
@@ -84,11 +84,11 @@
 
 ## Object Oriented JavaScript / Prototypal Inheritance
 1. Methods
-2. Thiskeyword, Windowobject
+2. This keyword, Window object
 3. Call , apply and bind method
 4. Somewarnings
-5. Thisinside arrow functions
-6. Shortsyntax for methods
+5. This inside arrow functions
+6. Short syntax for methods
 7. Factory functions & discuss some memory related problems
 8. First solution to that problem
 9. Why that solution isn’t that great
@@ -106,9 +106,9 @@
 21. Static methods and properties
 
 ## How JavaScript works
-1. GlobalExecution context
-2. Thisandwindowinglobalexecution context
+1. Global Execution context
+2. This and window in global execution context
 3. Hoisting
-4. Areletandconstarehoisted ? What is a reference Error ?
-5. Functionexecution context
-6. Scopechainandlexical environment
+4. Are let and const arehoisted ? What is a reference Error ?
+5. Function execution context
+6. Scope chain and lexical environment
